@@ -1,7 +1,7 @@
 {
-  "name": "sit725-2024-t1-prac7",
+  "name": "sit725-2024-t1-prac8",
   "version": "1.0.0",
-  "description": "sit 725 week 7 prac",
+  "description": "sit 725 week 8 prac",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

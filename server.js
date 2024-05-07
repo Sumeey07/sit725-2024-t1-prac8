@@ -23,7 +23,7 @@ client.connect()
     console.log("Connected to MongoDB");
 
     const db = client.db("AppliedSoftwareEngineering");
-    const collection = db.collection("Task7.2P");
+    const collection = db.collection("Task8.2HD");
 
     // Insert test data for MongoDB
     collection.insertOne({
